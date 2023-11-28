@@ -23,7 +23,7 @@
     "styled-components": "^3.3.3",
     "styled-jsx": "^2.2.7",
     "styletron-engine-atomic": "^1.0.5",
-    "styletron-react": "^4.3.1"
+    "styletron-react": "^4.4.1"
   },
   "devDependencies": {
     "babel-plugin-react-native-web": "0.8.9",
